@@ -1,4 +1,4 @@
-## functions that inverse a matrix
+## Functions to cache and inverse a matrix
 
 ## Creating a cache for the matrix and the inverted matrix
 ## pretty much the same as in the makevector example
